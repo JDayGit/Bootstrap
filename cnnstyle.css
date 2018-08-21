@@ -1,0 +1,153 @@
+.col-md-12 {
+  padding: 0;
+}
+
+.container {
+  display: run-in;
+}
+
+.topnav {
+  background-color: black;
+  width: 100%;
+  float: center;
+}
+
+.topnav a {
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: lighter;
+  line-height: 50px;
+}
+
+.topnav img {
+  max-width: 5%;
+  max-height: 5%;
+}
+
+.topnav a:hover {
+  font-weight: normal;
+  color: white;
+}
+
+.topnav button:hover {
+  font-weight: normal;
+  color: white;
+  background-color: #333;
+}
+
+.topnav button {
+  background-color: #333;
+  border-color: white;
+  font-weight: 400;
+}
+
+.col-md-5 img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.today {
+  background-color: #efefef;
+  border-width: thick;
+  border-color: #efefef;
+  padding-top: 22px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  display: block;
+  font-weight: 500;
+}
+
+.trump-pic {
+  max-width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.drug {
+  background-color: #efefef;
+  border-width: thick;
+  border-color: #efefef;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  display: block;
+  font-weight: 500;
+}
+
+.drugpic {
+  max-height: 120%;
+  max-width: 120%;
+  padding: 0;
+  margin: 0;
+}
+
+.checktheseout {
+  background-color: #efefef;
+  border-width: thick;
+  border-color: #efefef;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  display: block;
+  font-weight: 500;
+}
+
+h1, h3, h4, h5 {
+  color: black;
+}
+
+h1:hover {
+  color: red;
+}
+
+h2:hover {
+  color: red;
+}
+
+h3:hover {
+  color: red;
+}
+
+h4:hover {
+  color: red;
+}
+
+h5:hover {
+  color: red;
+}
+
+h6:hover {
+  color: red;
+}
+
+p {
+  color: black;
+  line-height: 0;
+}
+
+p:hover {
+  color: red;
+}
+
+hr {
+  border-style: solid;
+  border-color: #bdbfc1;
+}
+
+.buzz {
+  background-color: #efefef;
+  border-width: thick;
+  border-color: #efefef;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  display: block;
+  font-weight: 500;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
